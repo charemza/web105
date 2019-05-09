@@ -1,0 +1,20 @@
+h2{
+    font-family: 'Roboto', sans-serif;
+color: purple;
+}
+background{
+    color: lavender;
+}
+
+a:link, a:visited {
+  background-color: #3678f4;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
